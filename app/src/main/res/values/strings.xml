@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Funky weather</string>
+    <string name="duration">%s\n%s\n(%d milliseconds)</string>
 </resources>
